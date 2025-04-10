@@ -3,12 +3,12 @@
 .holder {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 -8px; /* half the spacing */
+  margin: 0 -8px;
 }
 
 .item {
-  flex: 1 1 20%; /* Adjust width as needed */
-  padding: 0 8px; /* matches negative margin */
+  flex: 1 1 20%;
+  padding: 0 8px;
   box-sizing: border-box;
   margin-bottom: 16px;
 }
